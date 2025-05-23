@@ -1,0 +1,23 @@
+/*  Movie.css */
+.movie {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  margins: 16px;
+  background-color: lightblue;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0.1);
+}
+
+.voting-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: space-between;
+  width: 100%;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}

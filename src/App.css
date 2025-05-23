@@ -1,0 +1,10 @@
+/* App.css */
+#root {
+  width: 80vw;
+}
+
+main {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
